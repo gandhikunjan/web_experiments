@@ -1,0 +1,10 @@
+{
+	"folders": [],
+	"settings": {
+		"terminal.integrated.shell.windows": "C:\\Cygwin64\\bin\\bash.exe",
+		"terminal.integrated.shellArgs.windows": ["/bin/xhere", "/bin/bash"]
+	},
+	
+	
+	
+}
